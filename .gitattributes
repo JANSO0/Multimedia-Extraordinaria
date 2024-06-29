@@ -1,0 +1,4 @@
+C:/Users/Usuario/Desktop/MMExtraordinaria/Videos.psd filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+CUEVANA_gamepley.mp4 filter=lfs diff=lfs merge=lfs -text
